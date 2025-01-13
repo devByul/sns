@@ -1,1 +1,6 @@
-spring.application.name=sns
+spring:
+  application:
+    name: sns
+
+server:
+  port: 8080
